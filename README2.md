@@ -1,5 +1,5 @@
 ## Robot Car Setup
-![image](https://github.com/tommykwok722/Cup-Retrieving-Robot-Car/assets/132838814/2326f45a-5ac6-4ae0-866a-362bfed74889)
+![image](https://github.com/tommykwok722/Cup-Retrieving-Robot-Car/assets/132838814/49d1000f-3988-4821-af03-d07ef2eb3bf1)
 ### Explanations:
 **1. Clamp** <br>
 Grabbing cups and returning to the End Zone
