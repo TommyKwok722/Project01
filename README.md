@@ -38,7 +38,7 @@ The designated arena is as follows:
 7. If cups are fallen outside of the arena during the transportation by the robot car, it will be counted as out-of-bounds and will be removed
 8. If cups are not returned to the End Zone by the robot car, it will be counted as out-of-bounds and will not be counted as a returned cup
 9. **Unlimited number of trials** can be attempted within the time limit.
-10. The robot car can restart at the Start Zone if malfunction happens
+10. The robot car can be restarted at the Start Zone if malfunction happens
 11. You can pick up **more than one cup** in each trial
 
 ## Assessment Criteria
