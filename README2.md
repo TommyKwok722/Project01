@@ -45,8 +45,21 @@ Path tracking <br>
 
 ### 3. Junction Navigation <br>
 ![image](https://github.com/tommykwok722/Cup-Retrieving-Robot-Car/assets/132838814/f764f877-c257-4cda-8526-098c8fa1a3d8)
-
-### How to determine which path the car goes after arriving at the junction?
-
-Here is the proposed path of collecting all cups in the arena: <br>
+#### How to determine which path the car goes after arriving at the junction?
+Here is the proposed path and order of collecting all cups in the arena: <br>
 ![image](https://github.com/tommykwok722/Cup-Retrieving-Robot-Car/assets/132838814/5469d935-0931-4443-a8a9-1178b0407a60)
+We define a variable ***count*** to be the number of cups collected <br>
+**RED** path: Collect cups 1-4 <br>
+If count = 0, the car is on the 1st run <br>
+If count = 3, the car is on the 4th run <br>
+***If count > -1 and count < 4, the car goes to RED path*** <br>
+
+**GREEN** path: Collect cups 5-8 <br>
+If count = 4, the car is on the 5th run <br>
+If count = 7, the car is on the 8th run <br>
+***If count > 3 and count < 8, the car goes to GREEN path*** <br>
+
+**BLUE** path: Collect cups 9-12 <br>
+If count = 8, the car is on the 5th run <br>
+If count = 11, the car is on the 8th run <br>
+***If count > 7 and count < 12, the car goes to BLUE path*** <br>
