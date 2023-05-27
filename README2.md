@@ -62,4 +62,4 @@ If count = 7, the car is on the 8th run <br>
 **BLUE** path: Collect cups 9-12 <br>
 If count = 8, the car is on the 5th run <br>
 If count = 11, the car is on the 8th run <br>
-***If count > 7 and count < 12, the car goes to BLUE path*** <br>
+***If count > 7, the car goes to BLUE path*** <br>
