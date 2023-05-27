@@ -21,7 +21,7 @@ Here is an example of Finite-state machine in daily lives:
 ![image](https://github.com/tommykwok722/Cup-Retrieving-Robot-Car/assets/132838814/4bec3a93-bf9f-4452-a669-cc06ade9c477)
 
 
-## Objective
+## Objectives
 Build a robot car, pick up as many paper cups as possible from a designated arena and drop off the cups at a specific location within a given time limit.
 
 The designated arena is as follows:
