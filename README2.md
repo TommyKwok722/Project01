@@ -40,8 +40,8 @@ Path tracking <br>
 
 #### Case 2: Backwards
 ![image](https://github.com/tommykwok722/Cup-Retrieving-Robot-Car/assets/132838814/d385a28d-47c7-4962-b7eb-001f4a90a2f9)
-![image](https://github.com/tommykwok722/Cup-Retrieving-Robot-Car/assets/132838814/89d44d33-1ff1-4e94-8372-a14bdd7c3911)
-![image](https://github.com/tommykwok722/Cup-Retrieving-Robot-Car/assets/132838814/9165eac7-15c1-47c0-98a9-d88194622fcc)
+![image](https://github.com/tommykwok722/Cup-Retrieving-Robot-Car/assets/132838814/b3b3d0db-b6ef-43a8-97fd-48c56900f2dd)
+![image](https://github.com/tommykwok722/Cup-Retrieving-Robot-Car/assets/132838814/8249d41a-d342-4217-8cc6-ed035718dd67)
 
 ### 3. Junction Navigation <br>
 ![image](https://github.com/tommykwok722/Cup-Retrieving-Robot-Car/assets/132838814/f764f877-c257-4cda-8526-098c8fa1a3d8)
