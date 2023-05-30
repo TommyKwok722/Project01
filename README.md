@@ -13,10 +13,10 @@ Here is an example of Finite-state machine in daily lives:
 **Traffic Light**: A sequence of actions will be triggered depending on the states of other traffic lights
 - **States:** RED, RED and YELLOW, YELLOW, GREEN Lights
 - **Transitions:**
-  - RED -> RED and YELLOW
-  - RED and YELLOW -> GREEN
-  - GREEN -> YELLOW
-  - YELLOW -> RED
+  - RED &rarr; RED and YELLOW
+  - RED and YELLOW &rarr; GREEN
+  - GREEN &rarr; YELLOW
+  - YELLOW &rarr; RED
 - **State Diagram:**
 ![image](https://github.com/tommykwok722/Cup-Retrieving-Robot-Car/assets/132838814/4bec3a93-bf9f-4452-a669-cc06ade9c477)
 
